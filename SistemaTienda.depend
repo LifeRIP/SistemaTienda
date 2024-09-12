@@ -1,0 +1,889 @@
+# depslib dependency file v1.0
+1654699576 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\cajero.cpp
+	"Cajero.h"
+	"Trabajador.h"
+
+1654699576 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\cajero.h
+	"Trabajador.h"
+
+1654702065 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\trabajador.h
+	"Persona.h"
+
+1654753099 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\persona.h
+	<iostream>
+	"Utils.h"
+
+1654665249 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\administrador.cpp
+	"Administrador.h"
+
+1654665249 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\administrador.h
+	"Trabajador.h"
+
+1653960498 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\cambio.h
+	"Tramite.h"
+
+1655151649 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\cierrecaja.h
+	"Transaccion.h"
+	"Tramite.h"
+
+1654702065 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\cliente.h
+	"Persona.h"
+
+1653960498 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\devolucion.h
+	"Tramite.h"
+
+1655703115 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\pedido.h
+	"Producto.h"
+	"Tiempo.h"
+
+1655698913 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\producto.h
+	<iostream>
+	<math.h>
+	"Utils.h"
+
+1654699432 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\supervisor.h
+	"Trabajador.h"
+
+1653960498 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\cambio.cpp
+	"Cambio.h"
+
+1655061800 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\cierrecaja.cpp
+	"CierreCaja.h"
+
+1654753073 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\cliente.cpp
+	"Cliente.h"
+
+1653960498 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\devolucion.cpp
+	"Devolucion.h"
+
+1655731941 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\main.cpp
+	<iostream>
+	<vector>
+	"Utils.h"
+	"Persona.h"
+	"Trabajador.h"
+	"Administrador.h"
+	"Supervisor.h"
+	"Cajero.h"
+	"Proveedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"Pedido.h"
+
+1655703115 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\pedido.cpp
+	<iostream>
+	"Pedido.h"
+
+1654753073 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1655698844 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\producto.cpp
+	"Producto.h"
+
+1654699576 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\supervisor.cpp
+	"Supervisor.h"
+	"Trabajador.h"
+
+1654753073 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\trabajador.cpp
+	"Trabajador.h"
+
+1654699320 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\proveedor.cpp
+	"Proveedor.h"
+
+1654699320 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\proveedor.h
+	"Persona.h"
+
+1655151379 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\tramite.h
+	<iostream>
+	"Transaccion.h"
+
+1655061800 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\tramite.cpp
+	"Tramite.h"
+
+1653975475 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\\tiempo.h
+
+1654312398 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\tiempo.h
+	<iostream>
+	"Utils.h"
+
+1654484234 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\tiempo.cpp
+	"Tiempo.h"
+
+1654047782 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\utils.cpp
+	"Utils.h"
+
+1654662950 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\utils.h
+	<iostream>
+	<windows.h>
+	<time.h>
+	<vector>
+	<chrono>
+
+1654358443 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\administrador.cpp
+	"Administrador.h"
+
+1654321568 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\administrador.h
+	"Trabajador.h"
+
+1654321472 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\trabajador.h
+	"Persona.h"
+
+1654363648 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\persona.h
+	<iostream>
+	"Utils.h"
+
+1654388814 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\utils.h
+	<iostream>
+	<windows.h>
+	<time.h>
+	<vector>
+
+1654358443 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\cajero.cpp
+	"Cajero.h"
+	"Trabajador.h"
+
+1654321681 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\cajero.h
+	"Trabajador.h"
+
+1653960498 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\cambio.cpp
+	"Cambio.h"
+
+1653960498 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\cambio.h
+	"Tramite.h"
+
+1654316283 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\tramite.h
+	<iostream>
+	"Tiempo.h"
+	"Producto.h"
+
+1654312398 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\tiempo.h
+	<iostream>
+	"Utils.h"
+
+1654317411 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\producto.h
+	<iostream>
+	"Utils.h"
+
+1654201335 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\cierrecaja.cpp
+	"CierreCaja.h"
+
+1654201335 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\cierrecaja.h
+	"Tramite.h"
+
+1654358443 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\cliente.cpp
+	"Cliente.h"
+
+1654321911 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\cliente.h
+	"Persona.h"
+
+1653960498 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\devolucion.cpp
+	"Devolucion.h"
+
+1653960498 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\devolucion.h
+	"Tramite.h"
+
+1653975099 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\pedido.cpp
+	"Pedido.h"
+
+1653975097 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\pedido.h
+	"Producto.h"
+	"Tramite.h"
+
+1654403480 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1654318324 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\producto.cpp
+	"Producto.h"
+
+1654358443 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\proveedor.cpp
+	"Proveedor.h"
+
+1654321732 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\proveedor.h
+	"Persona.h"
+
+1654358443 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\supervisor.cpp
+	"Supervisor.h"
+	"Trabajador.h"
+
+1654321623 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\supervisor.h
+	"Trabajador.h"
+
+1654321001 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\tiempo.cpp
+	"Tiempo.h"
+
+1654358443 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\trabajador.cpp
+	"Trabajador.h"
+
+1654315769 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\tramite.cpp
+	"Tramite.h"
+
+1654389043 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - copia\main.cpp
+	<iostream>
+	<vector>
+	"Utils.h"
+	"Administrador.h"
+	"Cajero.h"
+	"Cambio.h"
+	"CierreCaja.h"
+	"Cliente.h"
+	"Devolucion.h"
+	"Pedido.h"
+	"Persona.h"
+	"Producto.h"
+	"Proveedor.h"
+	"Supervisor.h"
+	"Trabajador.h"
+	"Tramite.h"
+
+1655151635 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\transaccion.h
+	<iostream>
+	"Tiempo.h"
+	"Producto.h"
+
+1655150655 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda\transaccion.cpp
+	"Transaccion.h"
+
+1654665249 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\administrador.cpp
+	"Administrador.h"
+
+1654665249 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\administrador.h
+	"Trabajador.h"
+
+1654702065 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\trabajador.h
+	"Persona.h"
+
+1654753099 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\persona.h
+	<iostream>
+	"Utils.h"
+
+1654662950 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\utils.h
+	<iostream>
+	<windows.h>
+	<time.h>
+	<vector>
+	<chrono>
+
+1654699576 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\cajero.cpp
+	"Cajero.h"
+	"Trabajador.h"
+
+1654699576 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\cajero.h
+	"Trabajador.h"
+
+1653960498 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\cambio.cpp
+	"Cambio.h"
+
+1653960498 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\cambio.h
+	"Tramite.h"
+
+1655151379 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\tramite.h
+	<iostream>
+	"Transaccion.h"
+
+1655151635 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\transaccion.h
+	<iostream>
+	"Tiempo.h"
+	"Producto.h"
+
+1654312398 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\tiempo.h
+	<iostream>
+	"Utils.h"
+
+1655150672 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\producto.h
+	<iostream>
+	<math.h>
+	"Utils.h"
+
+1655061800 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\cierrecaja.cpp
+	"CierreCaja.h"
+
+1655151649 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\cierrecaja.h
+	"Transaccion.h"
+	"Tramite.h"
+
+1654753073 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\cliente.cpp
+	"Cliente.h"
+
+1654702065 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\cliente.h
+	"Persona.h"
+
+1653960498 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\devolucion.cpp
+	"Devolucion.h"
+
+1653960498 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\devolucion.h
+	"Tramite.h"
+
+1655150693 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\main.cpp
+	<iostream>
+	<vector>
+	"Utils.h"
+	"Persona.h"
+	"Trabajador.h"
+	"Administrador.h"
+	"Supervisor.h"
+	"Cajero.h"
+	"Proveedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"Transaccion.h"
+	"Tramite.h"
+	"CierreCaja.h"
+
+1654699432 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\supervisor.h
+	"Trabajador.h"
+
+1654699320 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\proveedor.h
+	"Persona.h"
+
+1653975099 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\pedido.cpp
+	"Pedido.h"
+
+1653975097 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\pedido.h
+	"Producto.h"
+	"Tramite.h"
+
+1654753073 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1655150655 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\producto.cpp
+	"Producto.h"
+
+1654699320 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\proveedor.cpp
+	"Proveedor.h"
+
+1654699576 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\supervisor.cpp
+	"Supervisor.h"
+	"Trabajador.h"
+
+1654484234 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\tiempo.cpp
+	"Tiempo.h"
+
+1654753073 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\trabajador.cpp
+	"Trabajador.h"
+
+1655061800 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\tramite.cpp
+	"Tramite.h"
+
+1655150655 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda - 12-06-22 8pm (mod. productos)\transaccion.cpp
+	"Transaccion.h"
+
+1654665249 source:c:\users\manue\onedrive\documentos\code\sistematienda\administrador.cpp
+	"Administrador.h"
+
+1654665249 c:\users\manue\onedrive\documentos\code\sistematienda\administrador.h
+	"Trabajador.h"
+
+1654702065 c:\users\manue\onedrive\documentos\code\sistematienda\trabajador.h
+	"Persona.h"
+
+1654753099 c:\users\manue\onedrive\documentos\code\sistematienda\persona.h
+	<iostream>
+	"Utils.h"
+
+1654662950 c:\users\manue\onedrive\documentos\code\sistematienda\utils.h
+	<iostream>
+	<windows.h>
+	<time.h>
+	<vector>
+	<chrono>
+
+1654699576 source:c:\users\manue\onedrive\documentos\code\sistematienda\cajero.cpp
+	"Cajero.h"
+	"Trabajador.h"
+
+1654699576 c:\users\manue\onedrive\documentos\code\sistematienda\cajero.h
+	"Trabajador.h"
+
+1655061800 source:c:\users\manue\onedrive\documentos\code\sistematienda\cierrecaja.cpp
+	"CierreCaja.h"
+
+1655151649 c:\users\manue\onedrive\documentos\code\sistematienda\cierrecaja.h
+	"Transaccion.h"
+	"Tramite.h"
+
+1655151635 c:\users\manue\onedrive\documentos\code\sistematienda\transaccion.h
+	<iostream>
+	"Tiempo.h"
+	"Producto.h"
+
+1654312398 c:\users\manue\onedrive\documentos\code\sistematienda\tiempo.h
+	<iostream>
+	"Utils.h"
+
+1655150672 c:\users\manue\onedrive\documentos\code\sistematienda\producto.h
+	<iostream>
+	<math.h>
+	"Utils.h"
+
+1655151379 c:\users\manue\onedrive\documentos\code\sistematienda\tramite.h
+	<iostream>
+	"Transaccion.h"
+
+1654753073 source:c:\users\manue\onedrive\documentos\code\sistematienda\cliente.cpp
+	"Cliente.h"
+
+1654702065 c:\users\manue\onedrive\documentos\code\sistematienda\cliente.h
+	"Persona.h"
+
+1655505703 source:c:\users\manue\onedrive\documentos\code\sistematienda\main.cpp
+	<iostream>
+	<vector>
+	"Utils.h"
+	"Persona.h"
+	"Trabajador.h"
+	"Administrador.h"
+	"Supervisor.h"
+	"Cajero.h"
+	"Proveedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"Transaccion.h"
+	"Tramite.h"
+	"CierreCaja.h"
+
+1654699432 c:\users\manue\onedrive\documentos\code\sistematienda\supervisor.h
+	"Trabajador.h"
+
+1654699320 c:\users\manue\onedrive\documentos\code\sistematienda\proveedor.h
+	"Persona.h"
+
+1653975099 source:c:\users\manue\onedrive\documentos\code\sistematienda\pedido.cpp
+	"Pedido.h"
+
+1653975097 c:\users\manue\onedrive\documentos\code\sistematienda\pedido.h
+	"Producto.h"
+	"Tramite.h"
+
+1654753073 source:c:\users\manue\onedrive\documentos\code\sistematienda\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1655150655 source:c:\users\manue\onedrive\documentos\code\sistematienda\producto.cpp
+	"Producto.h"
+
+1654699320 source:c:\users\manue\onedrive\documentos\code\sistematienda\proveedor.cpp
+	"Proveedor.h"
+
+1654699576 source:c:\users\manue\onedrive\documentos\code\sistematienda\supervisor.cpp
+	"Supervisor.h"
+	"Trabajador.h"
+
+1654484234 source:c:\users\manue\onedrive\documentos\code\sistematienda\tiempo.cpp
+	"Tiempo.h"
+
+1654753073 source:c:\users\manue\onedrive\documentos\code\sistematienda\trabajador.cpp
+	"Trabajador.h"
+
+1655061800 source:c:\users\manue\onedrive\documentos\code\sistematienda\tramite.cpp
+	"Tramite.h"
+
+1655150655 source:c:\users\manue\onedrive\documentos\code\sistematienda\transaccion.cpp
+	"Transaccion.h"
+
+1654665249 source:c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\administrador.cpp
+	"Administrador.h"
+
+1654665249 c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\administrador.h
+	"Trabajador.h"
+
+1654702065 c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\trabajador.h
+	"Persona.h"
+
+1654753099 c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\persona.h
+	<iostream>
+	"Utils.h"
+
+1654662950 c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\utils.h
+	<iostream>
+	<windows.h>
+	<time.h>
+	<vector>
+	<chrono>
+
+1654699576 source:c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\cajero.cpp
+	"Cajero.h"
+	"Trabajador.h"
+
+1654699576 c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\cajero.h
+	"Trabajador.h"
+
+1655061800 source:c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\cierrecaja.cpp
+	"CierreCaja.h"
+
+1655151649 c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\cierrecaja.h
+	"Transaccion.h"
+	"Tramite.h"
+
+1655151635 c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\transaccion.h
+	<iostream>
+	"Tiempo.h"
+	"Producto.h"
+
+1654312398 c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\tiempo.h
+	<iostream>
+	"Utils.h"
+
+1655150672 c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\producto.h
+	<iostream>
+	<math.h>
+	"Utils.h"
+
+1655151379 c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\tramite.h
+	<iostream>
+	"Transaccion.h"
+
+1654753073 source:c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\cliente.cpp
+	"Cliente.h"
+
+1654702065 c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\cliente.h
+	"Persona.h"
+
+1655674488 source:c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\main.cpp
+	<iostream>
+	<vector>
+	"Utils.h"
+	"Persona.h"
+	"Trabajador.h"
+	"Administrador.h"
+	"Supervisor.h"
+	"Cajero.h"
+	"Proveedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"Transaccion.h"
+	"Tramite.h"
+	"CierreCaja.h"
+	"Pedido.h"
+
+1654699432 c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\supervisor.h
+	"Trabajador.h"
+
+1654699320 c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\proveedor.h
+	"Persona.h"
+
+1655674488 source:c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\pedido.cpp
+	<iostream>
+	"Pedido.h"
+
+1655610881 c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\pedido.h
+	"Producto.h"
+	"Tramite.h"
+
+1654753073 source:c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1655661757 source:c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\producto.cpp
+	"Producto.h"
+
+1654699320 source:c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\proveedor.cpp
+	"Proveedor.h"
+
+1654699576 source:c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\supervisor.cpp
+	"Supervisor.h"
+	"Trabajador.h"
+
+1654484234 source:c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\tiempo.cpp
+	"Tiempo.h"
+
+1654753073 source:c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\trabajador.cpp
+	"Trabajador.h"
+
+1655061800 source:c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\tramite.cpp
+	"Tramite.h"
+
+1655150655 source:c:\users\sebas\onedrive\desktop\semestres\semestre #2\introduccion a la programacion orientada a objetos ipoo\sistematienda\transaccion.cpp
+	"Transaccion.h"
+
+1654665249 source:c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\administrador.cpp
+	"Administrador.h"
+
+1654665249 c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\administrador.h
+	"Trabajador.h"
+
+1654702065 c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\trabajador.h
+	"Persona.h"
+
+1654753099 c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\persona.h
+	<iostream>
+	"Utils.h"
+
+1654662950 c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\utils.h
+	<iostream>
+	<windows.h>
+	<time.h>
+	<vector>
+	<chrono>
+
+1654699576 source:c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\cajero.cpp
+	"Cajero.h"
+	"Trabajador.h"
+
+1654699576 c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\cajero.h
+	"Trabajador.h"
+
+1655061800 source:c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\cierrecaja.cpp
+	"CierreCaja.h"
+
+1655151649 c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\cierrecaja.h
+	"Transaccion.h"
+	"Tramite.h"
+
+1655151635 c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\transaccion.h
+	<iostream>
+	"Tiempo.h"
+	"Producto.h"
+
+1654312398 c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\tiempo.h
+	<iostream>
+	"Utils.h"
+
+1655150672 c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\producto.h
+	<iostream>
+	<math.h>
+	"Utils.h"
+
+1655151379 c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\tramite.h
+	<iostream>
+	"Transaccion.h"
+
+1654753073 source:c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\cliente.cpp
+	"Cliente.h"
+
+1654702065 c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\cliente.h
+	"Persona.h"
+
+1655674488 source:c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\pedido.cpp
+	<iostream>
+	"Pedido.h"
+
+1655610881 c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\pedido.h
+	"Producto.h"
+	"Tramite.h"
+
+1654753073 source:c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1655661757 source:c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\producto.cpp
+	"Producto.h"
+
+1654699320 source:c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\proveedor.cpp
+	"Proveedor.h"
+
+1654699320 c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\proveedor.h
+	"Persona.h"
+
+1654699576 source:c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\supervisor.cpp
+	"Supervisor.h"
+	"Trabajador.h"
+
+1654699432 c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\supervisor.h
+	"Trabajador.h"
+
+1654484234 source:c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\tiempo.cpp
+	"Tiempo.h"
+
+1654753073 source:c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\trabajador.cpp
+	"Trabajador.h"
+
+1655061800 source:c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\tramite.cpp
+	"Tramite.h"
+
+1655150655 source:c:\users\manue\onedrive\documentos\code\nueva carpeta (3)\sistematienda\transaccion.cpp
+	"Transaccion.h"
+
+1654665249 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\administrador.cpp
+	"Administrador.h"
+
+1654665249 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\administrador.h
+	"Trabajador.h"
+
+1654702065 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\trabajador.h
+	"Persona.h"
+
+1654753099 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\persona.h
+	<iostream>
+	"Utils.h"
+
+1654662950 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\utils.h
+	<iostream>
+	<windows.h>
+	<time.h>
+	<vector>
+	<chrono>
+
+1654699576 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\cajero.cpp
+	"Cajero.h"
+	"Trabajador.h"
+
+1654699576 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\cajero.h
+	"Trabajador.h"
+
+1655061800 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\cierrecaja.cpp
+	"CierreCaja.h"
+
+1655151649 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\cierrecaja.h
+	"Transaccion.h"
+	"Tramite.h"
+
+1655151635 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\transaccion.h
+	<iostream>
+	"Tiempo.h"
+	"Producto.h"
+
+1654312398 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\tiempo.h
+	<iostream>
+	"Utils.h"
+
+1655698913 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\producto.h
+	<iostream>
+	<math.h>
+	"Utils.h"
+
+1655151379 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\tramite.h
+	<iostream>
+	"Transaccion.h"
+
+1654753073 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\cliente.cpp
+	"Cliente.h"
+
+1654702065 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\cliente.h
+	"Persona.h"
+
+1655678530 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\main.cpp
+	<iostream>
+	<vector>
+	"Utils.h"
+	"Persona.h"
+	"Trabajador.h"
+	"Administrador.h"
+	"Supervisor.h"
+	"Cajero.h"
+	"Proveedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"Transaccion.h"
+	"Tramite.h"
+	"CierreCaja.h"
+	"Pedido.h"
+
+1654699432 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\supervisor.h
+	"Trabajador.h"
+
+1654699320 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\proveedor.h
+	"Persona.h"
+
+1655701711 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\pedido.h
+	"Producto.h"
+	"Tramite.h"
+
+1655701711 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\pedido.cpp
+	<iostream>
+	"Pedido.h"
+
+1654753073 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1655698844 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\producto.cpp
+	"Producto.h"
+
+1654699320 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\proveedor.cpp
+	"Proveedor.h"
+
+1654699576 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\supervisor.cpp
+	"Supervisor.h"
+	"Trabajador.h"
+
+1654484234 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\tiempo.cpp
+	"Tiempo.h"
+
+1654753073 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\trabajador.cpp
+	"Trabajador.h"
+
+1655061800 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\tramite.cpp
+	"Tramite.h"
+
+1655150655 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\sistematienda (manuel)\transaccion.cpp
+	"Transaccion.h"
+
+1654665249 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\administrador.cpp
+	"Administrador.h"
+
+1654665249 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\administrador.h
+	"Trabajador.h"
+
+1654702065 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\trabajador.h
+	"Persona.h"
+
+1654753099 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\persona.h
+	<iostream>
+	"Utils.h"
+
+1654662950 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\utils.h
+	<iostream>
+	<windows.h>
+	<time.h>
+	<vector>
+	<chrono>
+
+1654699576 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\cajero.cpp
+	"Cajero.h"
+	"Trabajador.h"
+
+1654699576 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\cajero.h
+	"Trabajador.h"
+
+1654753073 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\cliente.cpp
+	"Cliente.h"
+
+1654702065 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\cliente.h
+	"Persona.h"
+
+1655703115 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\pedido.cpp
+	<iostream>
+	"Pedido.h"
+
+1655703115 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\pedido.h
+	"Producto.h"
+	"Tiempo.h"
+
+1655698913 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\producto.h
+	<iostream>
+	<math.h>
+	"Utils.h"
+
+1654312398 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\tiempo.h
+	<iostream>
+	"Utils.h"
+
+1654753073 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1655698844 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\producto.cpp
+	"Producto.h"
+
+1654699320 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\proveedor.cpp
+	"Proveedor.h"
+
+1654699320 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\proveedor.h
+	"Persona.h"
+
+1654699576 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\supervisor.cpp
+	"Supervisor.h"
+	"Trabajador.h"
+
+1654699432 d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\supervisor.h
+	"Trabajador.h"
+
+1654484234 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\tiempo.cpp
+	"Tiempo.h"
+
+1654753073 source:d:\joan\escritorio\joan\estudios\univalle\segundo semestre\ipoo\proyecto final\entrega final\entrega final\sistematienda\trabajador.cpp
+	"Trabajador.h"
+
